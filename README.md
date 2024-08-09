@@ -29,8 +29,7 @@ Tecnologías
 
 *FRONT*
 
-FALTA POR SUBIR
-bloglist-queryContent
+[FRONT GITHUB](https://github.com/franss40/bloglist-query.git)
   
 # Claves dada de alta para su uso
 
